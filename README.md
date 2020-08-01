@@ -3,8 +3,8 @@
 ## Round 1 started August 1st, 2020. Learn more at []()
 
 
-**Today's Progress**: Spent time fixing CSS and figuring out how canvas works.
+**Today's Progress**: Did Leetcode's August Challenge Day 1. Day 1 of Javascript30 - Drum Machine to brush up on vanilla js skills
 
-**Thoughts:** Feels good to be back at coding.
+**Thoughts:** Excited for the journey ahead! Leetcode was easy but it's a Saturday so I don't mind ;)
 
-**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/f7590d1e8180bd63167b04494710f27d50b13890)
+**Link to work:** [Leetcode's August Challenge Day 1](https://github.com/mitchstewart08/toy-problems/blob/master/detect-capital.js)
