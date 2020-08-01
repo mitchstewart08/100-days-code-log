@@ -1,6 +1,10 @@
-# 100-days-kallaway-log
-The log of my 100 Days Of Code (to keep separate from main repo and let people fork a clean version)
+# 100 Days of Code Challenge
 
-[Round 1](R1.md)
+## Round 1 started August 1st, 2020. Learn more at []()
 
-[Round 3](R3.md)
+
+**Today's Progress**: Spent time fixing CSS and figuring out how canvas works.
+
+**Thoughts:** Feels good to be back at coding.
+
+**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/f7590d1e8180bd63167b04494710f27d50b13890)
