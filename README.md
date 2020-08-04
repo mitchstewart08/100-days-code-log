@@ -15,3 +15,6 @@
 **Thoughts:** Next.js is super cool, can't wait to use it on my next react project. Misinterpreted Leetcode's requirement, it passed but /shrug
 
 **Link to work:** [Leetcode's August Challenge Day 2](https://github.com/mitchstewart08/toy-problems/blob/master/myHashSet.js)
+
+### Day3: Aug 3rd. Monday
+**Today's Progress**: Leetcode August3rd challenge. Front end work (mostly some css/styling), pair programmed on a greenfield React app to familarize myself with Redux Toolkit since I've been focused on Vue for so long.
