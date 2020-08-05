@@ -18,3 +18,6 @@
 
 ### Day3: Aug 3rd. Monday
 **Today's Progress**: Leetcode August3rd challenge. Front end work (mostly some css/styling), pair programmed on a greenfield React app to familarize myself with Redux Toolkit since I've been focused on Vue for so long.
+
+### Day4: August 4th. Tuesday
+**Today's Progress**: Leetcode August 4th challenge. Worked on an applescript to change my modifier keys (for when i have a PC keyboard plugged in) and swap back when i deactivate it. Ended up scrapping the project because Karabiner does it a lot easier.
