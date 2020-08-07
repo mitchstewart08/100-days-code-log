@@ -24,3 +24,6 @@
 
 ### Day5: August 5th. Wedsnesday
 **Today's Progress**: Leetcode August 5th Challenge. Got 96th percentile on speed/efficiency, with a O(n) solution. Started working on a bot for my discord server called Hoidbot (might just use webhook functionality instead, need to research tommorow)
+
+### Day6: August 6th. Thursday
+**Today's Progress**: Leetcode August 6th Challenge. Futz with webhooks and bots today, got my ifttt working at least
