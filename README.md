@@ -27,3 +27,6 @@
 
 ### Day6: August 6th. Thursday
 **Today's Progress**: Leetcode August 6th Challenge. Futz with webhooks and bots today, got my ifttt working at least
+
+### Day7: August 7th. Friday
+**Today's Progress**: Didn't do leetcode today, still feeling the effects of Ketoflu. Got hoid bot working successfully with GET requests to covid api
