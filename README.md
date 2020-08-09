@@ -30,3 +30,8 @@
 
 ### Day7: August 7th. Friday
 **Today's Progress**: Didn't do leetcode today, still feeling the effects of Ketoflu. Got hoid bot working successfully with GET requests to covid api
+
+### Day8: August 8th. Saturday
+**Today's Progress**: Python is weird after using JS for so long. Spent 1.7 hours today trying to get the successful data from GET requests to output to the server on command. Doesn't help most python docs suppose you are using Requests.
+
+
