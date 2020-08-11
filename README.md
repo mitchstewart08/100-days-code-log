@@ -34,9 +34,9 @@
 ### Day8: August 8th. Saturday
 **Today's Progress**: Python is weird after using JS for so long. Spent 1.7 hours today trying to get the successful data from GET requests to output to the server on command. Doesn't help most python docs suppose you are using Requests.
 
-**Day 9: August 9th. Sunday**
-decided to brush up on my python with Automate The Boring Stuff, worked on my covid discord bot to output more data.
+###Day 9: August 9th. Sunday
+**Today's Progress**: decided to brush up on my python with Automate The Boring Stuff, worked on my covid discord bot to output more data.
 
 ### Day 10: August 10th. Monday
-**Today's Progress**:: Coded a python script to take my pbcopy, transform it with upper() then paste the result, had to futz with $PATH to get Keyboard Maestro to work correctly, figured out I could just use a regex pattern instead so went with that. Did toy problem (find_meetings) on interview cake. 
+**Today's Progress**: Coded a python script to take my pbcopy, transform it with upper() then paste the result, had to futz with $PATH to get Keyboard Maestro to work correctly, figured out I could just use a regex pattern instead so went with that. Did toy problem (find_meetings) on interview cake. 
 
